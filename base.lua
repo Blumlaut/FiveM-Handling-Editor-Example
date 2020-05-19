@@ -57,7 +57,11 @@ local handlingData = {
 	"fBackEndPopUpCarImpulseMult",
 	"fBackEndPopUpBuildingImpulseMult",
 	"fBackEndPopUpMaxDeltaSpeed",
+	"fCamberFront",
+	"fCamberRear",
+	"fCastor",
 	"fToeFront",
+	"fToeRear",
 	"fEngineResistance",
 	"strAdvancedFlags",
 	
