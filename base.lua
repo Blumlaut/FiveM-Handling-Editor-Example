@@ -53,6 +53,14 @@ local handlingData = {
 	"strDamageFlags",
 	"AIHandling",
 	
+	-- CCarHandlingData
+	"fBackEndPopUpCarImpulseMult",
+	"fBackEndPopUpBuildingImpulseMult",
+	"fBackEndPopUpMaxDeltaSpeed",
+	"fToeFront",
+	"fEngineResistance",
+	"strAdvancedFlags",
+	
 	-- CFlyingHandlingData
 	
 	"fThrust",
